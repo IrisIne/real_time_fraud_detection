@@ -1,0 +1,12 @@
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+work/
+outputs/
+data/*.csv
+!data/test_sample.csv
+*.log
